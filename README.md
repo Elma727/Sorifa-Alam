@@ -1,66 +1,59 @@
-# <p align="center">✨ SORIFA ALAM ✨</p>
-<p align="center">
-  <b>M.Sc. Student in CSE (Major in Data Science) • Data Scientist • AI Researcher</b>
-</p>
-
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+# SORIFA ALAM
+### M.Sc. Student · Data Scientist · Researcher
+Dedicated to advancing data-driven solutions with a strong interest in academic projects, machine learning research, continuous learning, and contributing to artificial intelligence development and innovation.
 
 ---
 
-## 💻 // about me
-### 🌌 Passionate Data Scientist & ML Researcher
-I'm an **M.Sc. student in Computer Science and Engineering (Major: Data Science)** at Daffodil International University, where I also completed my B.Sc. in Computing and Information Systems (Major: Artificial Intelligence) with a premium CGPA of **3.89/4.00**.
+## // about me
+### Passionate Data Scientist & ML Researcher
+I'm an M.Sc. student in Computer Science and Engineering (Major: Data Science) at Daffodil International University, where I also completed my B.Sc. in Computing and Information Systems (Major: Artificial Intelligence) with a CGPA of 3.89/4.00.
 
 My work focuses heavily on bridging the gap between cutting-edge AI research and practical software implementations. My core research and project experience span across advanced machine learning model architecture, deep learning frameworks, deep graph neural networks for security, agentic multi-agent systems, and intelligent web applications.
 
 Beyond coding, I have a deep passion for academic writing, and my collaborative research has been peer-reviewed and accepted by international IEEE conferences.
 
-*   📍 **Location:** Dhaka, Bangladesh
-*   ✉️ **Email:** alam16-586@diu.edu.bd
+📍 Dhaka, Bangladesh
+✉ alam16-586@diu.edu.bd
 
 ---
 
-## 🎓 // academic background
+## // academic background
 ### Education
 
-*   **🎓 M.Sc. in Computer Science and Engineering (Major in Data Science)**
-    *Daffodil International University* • **Ongoing**
-*   **🎓 B.Sc. in Computing and Information System (Major in AI)**
-    *Daffodil International University* • **09/2021 — 09/2025** • **CGPA: 3.89 / 4.00**
-*   **🏫 Higher Secondary Certificate (HSC) in Science**
-    *Safiuddin Sarker Academy & College* • **2019**
-*   **🏫 Secondary School Certificate (SSC) in Science**
-    *Safiuddin Sarker Academy & College* • **2017**
+*   **M.Sc. in Computer Science and Engineering (Major in Data Science)**
+    Daffodil International University · *Ongoing*
+*   **B.Sc. in Computing and Information System (Major in AI)**
+    Daffodil International University · *09/2021 — 09/2025* · **CGPA: 3.89 / 4.00**
+*   **Higher Secondary Certificate (HSC) in Science**
+    Safiuddin Sarker Academy & College · *2019*
+*   **Secondary School Certificate (SSC) in Science**
+    Safiuddin Sarker Academy & College · *2017*
 
 ---
 
-## 💼 // work experience & leadership
-### Roles & Responsibilities
+## // work experience & leadership
+### Roles & responsibilities
 
-*   **🌐 Education Abroad Ambassador**
-    *Graduate Consultancy, Bangladesh* • **03/2024 — 03/2025**
-*   **🛡️ Organizing Secretary**
-    *Daffodil International University CIS Club, Bangladesh* • **10/2023 — 10/2024**
-*   **🤖 Women Secretary**
-    *Daffodil International University Robotics Club, Bangladesh* • **03/2022 — 03/2024**
+*   **Education Abroad Ambassador**
+    Graduate Consultancy, Bangladesh · *03/2024 — 03/2025*
+*   **Organizing Secretary**
+    Daffodil International University CIS Club, Bangladesh · *10/2023 — 10/2024*
+*   **Women Secretary**
+    Daffodil International University Robotics Club, Bangladesh · *03/2022 — 03/2024*
 
 ---
 
-## 📝 // research output
+## // research output
 ### Publications
 
-*   **📖 Conference Papers | 11th WIECON-ECE 2025 · IEEE**
-    > *Enhanced Linux malware detection using control flow graphs with Graph2Vec embedding and Graph Attention Networks*
-    > Sorifa Alam, Francis Rudra D Cruze, Rakibul Hasan Nirob, & Md. Ruhul Kuddus, 2025, November.
-    > **Paper ID: 144**
+*   **🎤 Conference Papers | 11th WIECON-ECE 2025 · IEEE**
+    *Enhanced Linux malware detection using control flow graphs with Graph2Vec embedding and Graph Attention Networks*
+    Sorifa Alam, Francis Rudra D Cruze, Rakibul Hasan Nirob, & Md. Ruhul Kuddus, 2025, November.
+    **Paper ID: 144**
 
 ---
 
-## 🛠️ // selected work
+## // selected work
 ### Projects
 
 *   **🤖 LeadGenius AI (All-in-One Sales & Marketing Assistant)**
@@ -93,12 +86,12 @@ Beyond coding, I have a deep passion for academic writing, and my collaborative 
 
 ---
 
-## ⚡ // technical skills & credentials
+## // technical skills & credentials
 ### Skills & Courses
 
-*   **🧠 Programming & Core Libraries:** `Python` `NumPy` `Pandas` `scikit-learn` `TensorFlow` `Keras` `Deep Learning` `Agentic AI`
-*   **📊 Tools & Analytics:** `Power BI` `Data Modeling` `Linux OS Systems Engineering` `Network Security`
-*   **📜 Certifications & Internships:**
+*   **Programming & Core Libraries:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, Deep Learning Architecture, Agentic AI Systems.
+*   **Tools & Analytics:** Power BI, Data Modeling, Linux OS Systems Engineering, Network Security.
+*   **Certifications & Internships:**
     *   *AWS Academy Graduate* — AWS Academy (04/2025)
     *   *Contextual Marketing Certified* — HubSpot Academy (10/2023 — 11/2024)
     *   *Technical Consulting Virtual Internship* — SAP, Germany (06/2023)
@@ -107,16 +100,16 @@ Beyond coding, I have a deep passion for academic writing, and my collaborative 
 
 ---
 
-## 🏆 // honours
+## // honours
 ### Achievements
 
 *   **🥈 2nd Runner Up — 4th National Data Science Summit 2024**
-    *Category: AI in Education*
-*   **✨ Galactic Problem Solver — NASA International Space Apps Challenge**
-    *IUB, Bangladesh (10/2023)*
+    Category: AI in Education
+*   **🏆 Galactic Problem Solver — NASA International Space Apps Challenge**
+    IUB, Bangladesh (10/2023)
 
 ---
 
-## 🗣️ // languages
+## // languages
 *   **English:** Proficient
 *   **Bangla:** Proficient
