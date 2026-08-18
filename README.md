@@ -1,5 +1,5 @@
 # SORIFA ALAM
-### M.Sc. Student · Data Scientist · Researcher
+### M.Sc. Student · Researcher
 Dedicated to advancing data-driven solutions with a strong interest in academic projects, machine learning research, continuous learning, and contributing to artificial intelligence development and innovation.
 
 ---
