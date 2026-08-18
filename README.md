@@ -1,102 +1,115 @@
 # SORIFA ALAM
-**Daffodil International University**
-**Department of Computing & Information System (Major in Artificial Intelligence)**
-Dhaka, Bangladesh
+### M.Sc. Student · Data Scientist · Researcher
+Dedicated to advancing data-driven solutions with a strong interest in academic projects, machine learning research, continuous learning, and contributing to artificial intelligence development and innovation.
 
 ---
 
-## SUMMARY
-I am a fresh graduate in Computer Science with a solid academic foundation in Artificial Intelligence. Through academic and research-oriented projects, I have gained hands-on experience in Python programming, building and evaluating machine learning and deep learning models and applying different AI techniques to solve real-world problems. I am passionate about developing data-driven solutions that combine AI research with practical software applications.
+## // about me
+### Passionate Data Scientist & ML Researcher
+I'm an M.Sc. student in Computer Science and Engineering (Major: Data Science) at Daffodil International University, where I also completed my B.Sc. in Computing and Information Systems (Major: Artificial Intelligence) with a CGPA of 3.89/4.00.
+
+My work focuses heavily on bridging the gap between cutting-edge AI research and practical software implementations. My core research and project experience span across advanced machine learning model architecture, deep learning frameworks, deep graph neural networks for security, agentic multi-agent systems, and intelligent web applications.
+
+Beyond coding, I have a deep passion for academic writing, and my collaborative research has been peer-reviewed and accepted by international IEEE conferences.
+
+📍 Dhaka, Bangladesh
+✉ alam16-586@diu.edu.bd
 
 ---
 
-## EDUCATION
+## // academic background
+### Education
 
-### Bachelor of Science in CIS (Major in AI)
-**Daffodil International University**
-*   **Duration:** 09/2021 - 09/2025
-*   **Location:** Dhaka, Bangladesh
-*   **CGPA:** 3.89 / 4.00
-
-### Higher Secondary Certificate (HSC) in Science
-**Safiuddin Sarker Academy & College**
-*   **Year:** 2019
-*   **Location:** Dhaka, Bangladesh
-
-### Secondary School Certificate (SSC) in Science
-**Safiuddin Sarker Academy & College**
-*   **Year:** 2017
-*   **Location:** Dhaka, Bangladesh
+*   **M.Sc. in Computer Science and Engineering (Major in Data Science)**
+    Daffodil International University · *Ongoing*
+*   **B.Sc. in Computing and Information System (Major in AI)**
+    Daffodil International University · *09/2021 — 09/2025* · **CGPA: 3.89 / 4.00**
+*   **Higher Secondary Certificate (HSC) in Science**
+    Safiuddin Sarker Academy & College · *2019*
+*   **Secondary School Certificate (SSC) in Science**
+    Safiuddin Sarker Academy & College · *2017*
 
 ---
 
-## PROJECT
+## // work experience & leadership
+### Roles & responsibilities
 
-### ML & DL Projects
-
-#### Machine Learning Projects:
-*   Autism Prediction
-*   Diabetes Prediction
-*   Heart Disease Prediction
-*   Parkinson's Disease Detection
-*   Customer Segmentation
-*   Credit Card Fraud Detection
-*   Medical Insurance Cost Prediction
-*   Spam Mail Prediction
-
-#### Deep Learning Projects:
-*   Breast cancer classification with neural networks
-*   MNIST digit classification with neural networks
-*   Image classification using transfer learning
-*   CIFAR-10 object recognition using ResNet50
-*   Face mask detection using CNN
-*   Fashion MNIST image classification using CNN
-*   Plant disease prediction with image classification using CNN
-
-### AI Based Applications:
-*   Movie Recommendation App
-*   Music Recommendation App
-*   Passenger Counting and Bus Route Optimization App
-
-### IoT Projects:
-*   Smart Home Automation System
-*   Predictive Maintainance System for Industrial Machineries
-*   Comparative Analysis of Fish Growth in Different Water Bodies
-
-### Web Development Projects:
-*   Agriculture Farm Management System
-*   Hospital Admission Record Keeping System
-
-### Agentic AI Projects:
-#### LeadGenius AI (All-in-One Sales & Marketing Assistant)
-The most powerful feature of LeadGenius AI is its set of nine autonomous AI agents. Each agent is designed with a specific role in mind and works both independently and collaboratively with others. These agents operate like skilled team members but without fatigue, salary or delay.
-
-### Linux OS Projects:
-*   Setting Up a DNS Server in Linux Operating System
-*   Malware Detection in Linux-OS using CFG with Graph2Vec Embedding and Graph Attention Networks
+*   **Education Abroad Ambassador**
+    Graduate Consultancy, Bangladesh · *03/2024 — 03/2025*
+*   **Organizing Secretary**
+    Daffodil International University CIS Club, Bangladesh · *10/2023 — 10/2024*
+*   **Women Secretary**
+    Daffodil International University Robotics Club, Bangladesh · *03/2022 — 03/2024*
 
 ---
 
-## EXPERIENCE
+## // research output
+### Publications
 
-*   **Women Secretary** | Daffodil International University Robotics Club, Bangladesh (03/2022 - 03/2024)
-*   **Organizing Secretary** | Daffodil International University CIS Club, Bangladesh (10/2023 - 10/2024)
-*   **Education Abroad Ambassador** | Graduate Consultancy, Bangladesh (03/2024 - 03/2025)
-*   **Contextual Marketing Certified** | HubSpot Academy (10/2023 - 11/2024)
-*   **AWS Academy Graduate** | AWS Academy (04/2025)
-*   **Technical Consulting Virtual Internship** | SAP, Germany (06/2023)
-*   **Cyber Threat Management** | Cisco Networking Academy, California (07/2023)
-*   **Power BI Virtual Case Experience** | PwC, London, United Kingdom (10/2023)
-*   **Galactic Problem Solver** | NASA International Space Apps Challenge, IUB, Bangladesh (10/2023)
+*   **🎤 Conference Papers | 11th WIECON-ECE 2025 · IEEE**
+    *Enhanced Linux malware detection using control flow graphs with Graph2Vec embedding and Graph Attention Networks*
+    Sorifa Alam, Francis Rudra D Cruze, Rakibul Hasan Nirob, & Md. Ruhul Kuddus, 2025, November.
+    **Paper ID: 144**
 
 ---
 
-## KEY ACHIEVEMENTS
-*   **Accepted Paper at the 11th IEEE WIECON-ECE 2025 (Paper ID: 144):** Enhanced Linux Malware Detection Using Control Flow Graphs with Graph2Vec Embedding and GAT
-*   **2nd Runner Up at the 4th National Data Science Summit 2024** - AI in Education
+## // selected work
+### Projects
+
+*   **🤖 LeadGenius AI (All-in-One Sales & Marketing Assistant)**
+    An innovative ecosystem powered by a collaborative system of nine autonomous, specialized AI agents designed to operate independently and interactively to execute business operations seamlessly.
+    `Agentic AI` `Autonomous Agents` `Python`
+*   **🧬 Linux OS Malware Detection Framework**
+    Advanced graph-based operating system security framework leveraging Control Flow Graphs (CFG) alongside Graph2Vec embeddings and Graph Attention Networks (GAT) to identify system vulnerabilities.
+    `Graph Neural Networks` `GAT` `Graph2Vec` `Linux OS`
+*   **👁️ Computer Vision Frameworks**
+    End-to-end deep learning image classification frameworks utilizing ResNet50, complex CNN topologies, and transfer learning for datasets including MNIST, CIFAR-10, Face Mask, and Plant Disease tracking.
+    `Deep Learning` `CNN` `ResNet50` `Transfer Learning`
+*   **🩺 Machine Learning Health & Diagnostic Informatics**
+    A suite of targeted diagnostic screening models optimizing high-accuracy risk metrics for Autism, Diabetes, Heart Disease, and Parkinson's Disease detection.
+    `Machine Learning` `Scikit-Learn` `Predictive Analytics`
+*   **📈 Fraud & Risk Analytics Platforms**
+    Advanced business analytics pipelines optimized for Credit Card Fraud Detection and fine-grained Customer Segmentation modeling.
+    `Data Analytics` `Fraud Detection` `Customer Segmentation`
+*   **📱 AI Smart Consumer Apps**
+    Contextual recommendation models running behind localized Movie and Music Recommendation Apps, alongside smart infrastructure routing via a Passenger Counting and Bus Route Optimization App.
+    `Recommendation Systems` `Optimization` `AI Apps`
+*   **🌐 Web Engineering Platforms**
+    Full-stack production portals including an automated Agriculture Farm Management System and an enterprise-tier Hospital Admission Record Keeping System.
+    `Web Development` `Database Management` `Systems Engineering`
+*   **📡 IoT Automation Engineering**
+    Smart Home Automation setups, Predictive Maintenance Frameworks built for industrial machinery pipelines, and comparative multi-node environmental data tracking arrays for fish growth analysis.
+    `IoT Systems` `Predictive Maintenance` `Automation`
+*   **🖥️ Linux DNS Infrastructure**
+    Architecting, configuring, and testing functional DNS routing servers entirely built within Linux environments.
+    `Linux OS` `Network Infrastructure` `DNS Server`
 
 ---
 
-## LANGUAGES
+## // technical skills & credentials
+### Skills & Courses
+
+*   **Programming & Core Libraries:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, Deep Learning Architecture, Agentic AI Systems.
+*   **Tools & Analytics:** Power BI, Data Modeling, Linux OS Systems Engineering, Network Security.
+*   **Certifications & Internships:**
+    *   *AWS Academy Graduate* — AWS Academy (04/2025)
+    *   *Contextual Marketing Certified* — HubSpot Academy (10/2023 — 11/2024)
+    *   *Technical Consulting Virtual Internship* — SAP, Germany (06/2023)
+    *   *Cyber Threat Management* — Cisco Networking Academy, California (07/2023)
+    *   *Power BI Virtual Case Experience* — PwC, London, United Kingdom (10/2023)
+
+---
+
+## // honours
+### Achievements
+
+*   **🥈 2nd Runner Up — 4th National Data Science Summit 2024**
+    Category: AI in Education
+*   **🏆 Galactic Problem Solver — NASA International Space Apps Challenge**
+    IUB, Bangladesh (10/2023)
+
+---
+
+## // languages
 *   **English:** Proficient
 *   **Bangla:** Proficient
