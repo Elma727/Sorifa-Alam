@@ -1,32 +1,54 @@
-<p align="left">
-  <img src="https://vercel.app" alt="Header Banner" />
-</p>
-
-<p align="left">
-  <img src="https://shields.io" height="24" />
-</p>
-
-## B.Sc. Graduate | Data Scientist | AI Researcher
-Dedicated to advancing data-driven solutions with a strong interest in academic projects, machine learning research, continuous learning, and contributing to artificial intelligence development and innovation.
-
----
-
-### // quick overview
-<table>
+<!-- HEADER AREA -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="150">
+    <td width="70%" valign="top">
+      <p align="left">
+        <img src="https://shields.io" height="24" />
+      </p>
+      <h1 align="left"><font size="7" color="#ffffff"><b>Sorifa<br>Alam</b></font></h1>
+      <p align="left">
+        <font size="3" color="#8b5cf6"><b>M.Sc. Student • Data Scientist • AI Researcher</b></font>
+      </p>
+      <p align="left">
+        <font size="3" color="#9ca3af">Dedicated to advancing data-driven solutions with a strong interest in academic projects, machine learning research, continuous learning, and contributing to artificial intelligence development and innovation.</font>
+      </p>
+      <br>
+      <p align="left">
+        <a href="mailto:alam16-586@diu.edu.bd"><img src="https://shields.io" height="35" /></a>
+      </p>
+    </td>
+    <td width="30%" align="right" valign="middle">
+      <!-- Decorative matrix-border layout frame -->
+      <pre>
+┌──────────────┐
+│  DATA        │
+│  SCIENCE     │
+│  &amp; AI        │
+│  RESEARCHER  │
+└──────────────┘
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- METRIC COUNTER ROW -->
+<table width="100%" border="0" cellspacing="0" cellpadding="10" bgcolor="#121214">
+  <tr>
+    <td align="center" width="25%">
       <font size="6" color="#8b5cf6"><b>1</b></font><br>
       <font size="2" color="#9ca3af">Publications</font>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="25%">
       <font size="6" color="#8b5cf6"><b>10+</b></font><br>
       <font size="2" color="#9ca3af">Projects</font>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="25%">
       <font size="6" color="#8b5cf6"><b>3.89</b></font><br>
       <font size="2" color="#9ca3af">B.Sc. CGPA</font>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="25%">
       <font size="6" color="#8b5cf6"><b>1+</b></font><br>
       <font size="2" color="#9ca3af">Years Experience</font>
     </td>
@@ -43,8 +65,7 @@ My work focuses heavily on bridging the gap between cutting-edge AI research and
 
 Beyond coding, I have a deep passion for academic writing, and my collaborative research has been peer-reviewed and accepted by international IEEE conferences.
 
-*   **Email:** alam16-586@diu.edu.bd
-*   **Location:** Dhaka, Bangladesh
+✉ alam16-586@diu.edu.bd | 📍 Dhaka, Bangladesh
 
 ---
 
@@ -54,18 +75,19 @@ Beyond coding, I have a deep passion for academic writing, and my collaborative 
 **Ongoing**
 > **M.Sc. in Computer Science and Engineering (Major in Data Science)**
 > *Daffodil International University*
+> Currently enrolled
 
 **09/2021 — 09/2025**
-> **B.Sc. in Computing and Information System (Major in AI)**
-> *Daffodil International University*
+> **B.Sc. in Computing and Information System**
+> *Daffodil International University • Major: Artificial Intelligence*
 > CGPA: 3.89 / 4.00
 
 **2019**
-> **Higher Secondary Certificate (HSC) in Science**
+> **Higher Secondary Certificate in Science**
 > *Safiuddin Sarker Academy & College*
 
 **2017**
-> **Secondary School Certificate (SSC) in Science**
+> **Secondary School Certificate in Science**
 > *Safiuddin Sarker Academy & College*
 
 ---
@@ -138,12 +160,12 @@ Architecting, configuring, and testing functional DNS routing servers entirely b
 
 ---
 
-## // technical skills & credentials
+## // technical skills & courses
 ### Skills & Courses
 
-*   **Programming & Core Libraries:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, Deep Learning, Agentic AI
-*   **Tools & Analytics:** Power BI, Data Modeling, Linux OS Systems Engineering, Network Security
-*   **Certifications & Internships:**
+*   **Programming & Libraries:** Python, NumPy, Pandas, scikit-learn, TensorFlow, Keras, Deep Learning, Agentic AI Systems
+*   **Frameworks & OS:** Power BI, Data Modeling, Linux OS Systems Engineering, Network Infrastructure, DNS Routing, Network Security
+*   **Courses & Credentials:**
     *   *AWS Academy Graduate* — AWS Academy (04/2025)
     *   *Contextual Marketing Certified* — HubSpot Academy (10/2023 — 11/2024)
     *   *Technical Consulting Virtual Internship* — SAP, Germany (06/2023)
